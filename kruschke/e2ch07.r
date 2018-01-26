@@ -1,9 +1,9 @@
 # Kruschke 2e, chapter 7
 
 # path where copies of the author's programs are saved
-setwd("H:/Documents/stats/kruschke/ProgramsDoingBayesianDataAnalysis")
+source("kruschke/DBDA2Eprograms/BernMetrop.R")
 
 # 7.1 
 
-BernMetropolisTemplate.R 
+
 
